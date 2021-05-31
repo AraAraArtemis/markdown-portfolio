@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Seb Vettel](https://www.racefans.net/wp-content/uploads/2019/09/racefansdotnet-20190922-154427-55.jpg)
